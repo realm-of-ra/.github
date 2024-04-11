@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="../assets/banner.jpeg"></img>
+
 # RealmOfRa
 
 **RoR** is an on-chain gaming studio with the aim to spread Africa culture on Starknet through gaming
@@ -16,8 +18,8 @@ All our projects are fully open-sourced.
 
 Here is the list of the projects we buidl:
 
-| Project   | Description                     | Repository                                     |
-| --------- | ------------------------------- | ---------------------------------------------- |
+| Project   | Description                           | Repository                                     |
+| --------- | ------------------------------------- | ---------------------------------------------- |
 | `mancala` | A strategy board game of sowing seeds | [link](https://github.com/realm-of-ra/mancala) |
 
 </div>
