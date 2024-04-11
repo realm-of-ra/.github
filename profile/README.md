@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.jpeg"></img>
+<img src="/assets/banner.jpeg"></img>
 
 # RealmOfRa
 
